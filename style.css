@@ -16,10 +16,7 @@ hr {
   height: 4px;
 }
 
-logo {
-  width: 70%;
-}
-
 me {
   width: 275px;
+  border-radius: 9px;
 }
