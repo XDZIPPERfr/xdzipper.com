@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/* This is the style.css. Idk why you're looking here, but ok. o-('-')-o */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Outfit:wght@100..900&display=swap');
 
 h1, h2, h3, h4, h5, a, p, button, textarea {
   font-family: Outfit;
